@@ -1,4 +1,4 @@
-# Treasure-Hunt
+# Treasure-Hunt game
 Report: Treasure Hunt in the Enchanted Forest
  Optimization details
  To find the optimal path with minimal cost using the provided code, several
